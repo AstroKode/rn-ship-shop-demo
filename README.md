@@ -1,5 +1,5 @@
 # rn-ship-shop-demo
-Simple React Native shopping catalog application. The user can browse a simple catalog of historical warships.
+Simple React Native EXPO shopping catalog app. The user can browse a simple catalog of historical warships.
 
 Features:
 - Native look for both Android and iOS
@@ -13,3 +13,8 @@ Features:
 - Save / fetch data to/from firebase realtime database
 - Build your own fleet by adding items to 'shopping cart'
 - Let user create and edit ships
+
+TO RUN:
+1) Clone and cd into the working directory
+2) npm install
+3) npm start (or expo start)
